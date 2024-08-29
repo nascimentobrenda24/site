@@ -1,54 +1,57 @@
-<h1>COMO JOGAR UM FUTT COM GIROTTO</h1>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como Jogar um Futt com Girotto</title>
+</head>
+<body>
+    <h1>COMO JOGAR UM FUTT COM GIROTTO</h1>
 
+    <img src="girotto.jpeg" alt="Foto de Pedro Girotto" style="width:200px;height:auto;">
 
+    <h2>Este é Pedro Girotto, seu futuro companheiro de futt</h2>
 
-<img src="pedro girotto.jpeg" alt=""> 
+    <h2>1. Ser um churrasqueiro</h2>
+    <p>É bom ter habilidade de churrasqueiro, pois todo futt tem um churrasqueiro. Suas chances serão aumentadas. Se já tiver um no futt dele, dê um jeito nele...</p>
 
-<h2>Este e pedro girotto,seu futuro companheiro de futt</h2>
+    <h2>2. Entrar no Gamelab</h2>
+    <p>Girotto é o coordenador do Gamelab no Cesupa. Ao entrar lá, existem algumas formas de você jogar um futt com ele:</p>
+    <ul>
+        <li>Ficar bastante tempo conversando com o Girotto sobre jogos e fazer uma amizade com ele :)</li>
+        <li>Sequestrar e ameaçar ele (nada legal >:<)</li>
+        <li>Outra opção a ser inventada (porque quem tem limite é município)...</li>
+    </ul>
 
-<h2>1.Ser um churrasqueiro</h2>
+    <h2>3. Vá para o Ovibe com o Yago</h2>
+    <p>A priori, isso não parece fazer sentido, mas veja os seguintes passos:</p>
+    <ol>
+        <li>Indo para o Ovibe, torne-se amigo de Yago Schnor.</li>
+        <li>Com o tempo de amizade com Yago Schnor, você poderá pedir favores a ele.</li>
+        <li>Yago, com sua habilidade de camaradagem premium, poderá te ajudar a entrar em contato com Girotto.</li>
+        <li>Após entrar em contato com Yago, fale com Pedro Girotto.</li>
+    </ol>
 
-<p>E bom ter habilidade de churrasqueiro pois todo fut tem um churrasqueiro 
-    logo sua chances serão aumentadas,se ja tiver um no futt dele,de um jeito nele...
-</p>
+    <h2>Uma Heineken e um Sonho | Compareça com umas Verdinhas para o Futt</h2>
+    <br><img src="heiken-churrasco.jpeg" alt="Churrasco-Heikein" style="width:200px;height:auto;">
+    <br><br>
+    <h3>Todo futt de respeito não pode faltar a Gelada!</h3><br> Levar um engradado de Heineken não só pode funcionar, como vai te trazer para uma "seita verde", um caminho sem volta para alguns...</p>
+    <p>Seja Parte do Clube Heikein:</p>
+    <a href="https://www.heineken.com/br/pt/agegateway?returnurl=%2fbr%2fpt%2fpagina-inicial">Comprar Heikein</a>
+    
+    <br><br><img src="rcasseb_1427750673_83.jpg" alt="Mestre Casseb Conselhos" style="width:200px;height:auto;">
+    
+    
+    <p>"A cerveja e a cachaça são os piores inimigos do homem. Mas o homem que foge dos seus inimigos é um covarde." Zeca Pagodinho</p>
+    <h2>Boa sorte em sua busca :)</h2>
 
-<h2>2. entrar no gamelab</h2>
-
-<p>girrotto e o cordenador do gamelab no cesupa,ao entrar la tem agumas formas de voce jogar um futt com ele.</p>
-
-<ul>● ficar bastante tempo conversando com o girotto sobre jogos e fazer uma amizade com ele:)<br>
-    ● sequestrar e ameaçar ele(nada legal &nbsp >:< &nbsp )<br>
-    ● apa 
-</ul>
-
-<h2>3. va para o Ovibe com o yago 
-
-</h2>
-
-
-
-
-
-
-<p>A priori esse não parece fazer sentindo mais veja,os seguintees passos</p>
-
-<ol>
-    1. indo para o Ovibe se torne amigo de yago schnor <br>
-    2.com o tempo de amizade com yago schnor voce podera pedir favores a ele. <br>
-    3. yago com seu network imenso podera te ajudar a entrar contato com girotto <br>
-    4.pos entrar em contato com yago fale com pedro girotto.<br>
-</ol>
-
-<h2>Comprar heineken para o futt</h2>
-
-<p>Todo futt tem cerveja,voce levar um gradeado de heineken com especie de sacrificio pode funcionar <br>
-    para isso abaixo o site da heineken para voces.
-
-</p>
-
-
-
-<a href="https://www.heineken.com/br/pt/agegateway?returnurl=%2fbr%2fpt%2fpagina-inicial">site heineken</a>  
-
-
-<h2>Boa sorte em sua busca :)</h2>
+    <footer>
+        <h2>Membros da equipe:</h2>
+        <ul>
+            <li>Brenda dos Santos Nascimento</li>
+            <li>Dudu NOME COMPLETO</li>
+            <li>Luiza NOME COMPLETO</li>
+        </ul>
+    </footer>
+</body>
+</html>
